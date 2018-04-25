@@ -11,7 +11,7 @@ namespace Lab2_ClassMeasurements
 
             while (true)
             {
-                Console.WriteLine("Enter Length:");
+                Console.WriteLine("Enter Length ");
                 decimal lengthSide = Convert.ToDecimal(Console.ReadLine());
 
                 Console.WriteLine("Enter Width");
