@@ -1,0 +1,11 @@
+C:\Users\rjkgi\source\repos\Lab2-ClassMeasurements\Lab2-ClassMeasurements\obj\Debug\netcoreapp2.0\Lab2-ClassMeasurements.csprojResolveAssemblyReference.cache
+C:\Users\rjkgi\source\repos\Lab2-ClassMeasurements\Lab2-ClassMeasurements\obj\Debug\netcoreapp2.0\Lab2-ClassMeasurements.csproj.CoreCompileInputs.cache
+C:\Users\rjkgi\source\repos\Lab2-ClassMeasurements\Lab2-ClassMeasurements\obj\Debug\netcoreapp2.0\Lab2-ClassMeasurements.AssemblyInfoInputs.cache
+C:\Users\rjkgi\source\repos\Lab2-ClassMeasurements\Lab2-ClassMeasurements\obj\Debug\netcoreapp2.0\Lab2-ClassMeasurements.AssemblyInfo.cs
+C:\Users\rjkgi\source\repos\Lab2-ClassMeasurements\Lab2-ClassMeasurements\bin\Debug\netcoreapp2.0\Lab2-ClassMeasurements.deps.json
+C:\Users\rjkgi\source\repos\Lab2-ClassMeasurements\Lab2-ClassMeasurements\bin\Debug\netcoreapp2.0\Lab2-ClassMeasurements.runtimeconfig.json
+C:\Users\rjkgi\source\repos\Lab2-ClassMeasurements\Lab2-ClassMeasurements\bin\Debug\netcoreapp2.0\Lab2-ClassMeasurements.runtimeconfig.dev.json
+C:\Users\rjkgi\source\repos\Lab2-ClassMeasurements\Lab2-ClassMeasurements\bin\Debug\netcoreapp2.0\Lab2-ClassMeasurements.dll
+C:\Users\rjkgi\source\repos\Lab2-ClassMeasurements\Lab2-ClassMeasurements\bin\Debug\netcoreapp2.0\Lab2-ClassMeasurements.pdb
+C:\Users\rjkgi\source\repos\Lab2-ClassMeasurements\Lab2-ClassMeasurements\obj\Debug\netcoreapp2.0\Lab2-ClassMeasurements.dll
+C:\Users\rjkgi\source\repos\Lab2-ClassMeasurements\Lab2-ClassMeasurements\obj\Debug\netcoreapp2.0\Lab2-ClassMeasurements.pdb
